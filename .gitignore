@@ -1,0 +1,19 @@
+# Ignore environment variables file
+.env
+.env.production
+# Ignore node_modules
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore Docker related files
+.docker/
+
+# Ignore build files
+dist/
+build/
+
+# Ignore IDE settings
+.idea/
+.vscode/
